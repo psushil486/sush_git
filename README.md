@@ -1,0 +1,3 @@
+These are the projects where i solved alot bussiness need problems like SIM creation, Resolving , Dynamic commenting , Collecting SIM URL from portal refine them whith regex again use it for different purpose.
+Some Projects are also for Allocation purpose to all the analyst at the system where by collecting all necessary data's from different channels using Vector model i have mapped them as per near to a matching case to help all the people at system .
+Hope you able Enjoy these projects and make sure don't forget visit Pricing rule and Product Intelligence code as this told how to tackle a highly dynamic website and bypass login.
